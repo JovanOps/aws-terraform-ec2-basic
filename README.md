@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 This project provisions a basic AWS infrastructure using Terraform.
+Infrastructure provisioned in eu-central-1 region.
 
 ## 🧱 Architecture
 - Custom VPC
